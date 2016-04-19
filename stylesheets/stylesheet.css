@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: #4F3B29;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -18,8 +18,8 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.25);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -57,7 +57,10 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: linear-gradient(120deg, #155799, #159957);
+  background-image: url('../images/header_sep.jpg');
+  background-size: cover;
+   }
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -90,7 +93,7 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7; }
+  opacity: 0.85; }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
@@ -112,7 +115,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #210D00; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -223,13 +226,17 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #eff0f1;
+  
+   }
 
 .site-footer-owner {
   display: block;
+  font-size: 0.85em;
   font-weight: bold; }
 
 .site-footer-credits {
+  font-size: 0.85em;
   color: #819198; }
 
 @media screen and (min-width: 64em) {
