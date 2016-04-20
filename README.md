@@ -4,7 +4,8 @@ Jordskarve - Earthship planned for construction in Liberstad, Norway.
 Website: [http://sondreb.github.io/Jordskarve/](http://sondreb.github.io/Jordskarve/)   
 Wiki: [https://github.com/sondreb/Jordskarve/wiki](https://github.com/sondreb/Jordskarve/wiki)   
 Questions and Answers: [https://github.com/sondreb/Jordskarve/issues](https://github.com/sondreb/Jordskarve/issues)   
-Group and Forum: [http://v2.earthship.no/online-community/grupper/jordskarve/](http://v2.earthship.no/online-community/grupper/jordskarve/)
+Group and Forum: [http://v2.earthship.no/online-community/grupper/jordskarve/](http://v2.earthship.no/online-community/grupper/jordskarve/)   
+Inspirations (pinterest): [https://no.pinterest.com/sondreb/jordskarve/](https://no.pinterest.com/sondreb/jordskarve/)
 
 
 
